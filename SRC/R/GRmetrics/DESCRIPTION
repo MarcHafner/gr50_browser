@@ -1,0 +1,14 @@
+Package: GRmetrics
+Type: Package
+Title: Calculate growth-rate inhibition (GR) metrics
+Version: 0.1
+Date: 2016-04-14
+Author: Nicholas Clark
+Maintainer: Nicholas Clark <clarkno@mail.uc.edu>
+Description: Functions for calculating and visualizing growth-rate inhibition
+    (GR) metrics.
+License: What license is it under?
+LazyData: TRUE
+Imports:
+    drc
+RoxygenNote: 5.0.1
