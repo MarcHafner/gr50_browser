@@ -1,2 +1,7 @@
 *.asv
 /OUTPUT
+.Rproj.user
+.Rproj
+.rda
+.Rbuildignore
+*~
